@@ -14,7 +14,7 @@ This project explores the use of **Siamese Neural Networks (SNN)** for optical f
 
 ## Performance Comparison
 | Model | Accuracy | Signal Recognition Accuracy |
-|-------|----------|--------|------------|----------|--------------------------|
+|-------|-----------|--------------------------|
 | **VGG-16** | 17.50% | - |
 | **SNN (VGG-16 based)** | 90.62% | 90.0% |
 
