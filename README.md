@@ -1,5 +1,5 @@
 # Siamese-Neural-Network
-# Distributed Fibre Optic Sensing with Siamese Neural Networks
+# Optical Fibre Sensing Signal Recognition Based on Siamese Neural Network
 
 ## Overview
 Distributed fibre optic sensing technology has applications in fields such as pipeline safety and perimeter defence. However, vibration sensing signals often contain significant noise and stray signals, leading to false alarms. To enhance the accuracy of pre-warnings, it is crucial to accurately identify signal types.
